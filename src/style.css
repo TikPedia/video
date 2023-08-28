@@ -51,10 +51,11 @@
 }
 
 .captions {
-	margin-top: calc(var(--base-size) * 0.5);
+	margin-top: 80%;
+	text-align: center;
 	font-size: calc(var(--base-size) * 1.5);
 	font-weight: 600;
-	align-self: center;
+	position: absolute;
 }
 
 .promo-container {
